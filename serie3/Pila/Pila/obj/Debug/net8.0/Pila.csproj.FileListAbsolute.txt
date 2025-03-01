@@ -1,0 +1,15 @@
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\Pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\Pila.AssemblyInfoInputs.cache
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\Pila.AssemblyInfo.cs
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\Pila.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\Pila.sourcelink.json
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\bin\Debug\net8.0\Pila.exe
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\bin\Debug\net8.0\Pila.deps.json
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\bin\Debug\net8.0\Pila.runtimeconfig.json
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\bin\Debug\net8.0\Pila.dll
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\bin\Debug\net8.0\Pila.pdb
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\Pila.dll
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\refint\Pila.dll
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\Pila.pdb
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\Pila.genruntimeconfig.cache
+C:\Users\delmy\Desktop\parcial1\serie3\Pila\Pila\obj\Debug\net8.0\ref\Pila.dll
