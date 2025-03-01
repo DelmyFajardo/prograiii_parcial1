@@ -1,0 +1,14 @@
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\bin\Debug\net8.0\BUSQUEDA-LINEAL.exe
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\bin\Debug\net8.0\BUSQUEDA-LINEAL.deps.json
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\bin\Debug\net8.0\BUSQUEDA-LINEAL.runtimeconfig.json
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\bin\Debug\net8.0\BUSQUEDA-LINEAL.dll
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\bin\Debug\net8.0\BUSQUEDA-LINEAL.pdb
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\BUSQUEDA-LINEAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\BUSQUEDA-LINEAL.AssemblyInfoInputs.cache
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\BUSQUEDA-LINEAL.AssemblyInfo.cs
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\BUSQUEDA-LINEAL.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\BUSQUEDA-LINEAL.dll
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\refint\BUSQUEDA-LINEAL.dll
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\BUSQUEDA-LINEAL.pdb
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\BUSQUEDA-LINEAL.genruntimeconfig.cache
+C:\Users\delmy\Desktop\parcial1\serie2\BUSQUEDA-LINEAL\BUSQUEDA-LINEAL\obj\Debug\net8.0\ref\BUSQUEDA-LINEAL.dll
